@@ -1,0 +1,15 @@
+{
+    "name": "betadog/direct-upload-2-selectel",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "betabog",
+            "email": "kozitsyn@kassir.ru"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.208"
+    }
+}
